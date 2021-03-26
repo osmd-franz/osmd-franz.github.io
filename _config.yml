@@ -58,6 +58,7 @@ prose:
     - Gemfile
     - Gemfile.lock
     - site.webmanifest
+    - 404.html
     - /_layouts
     - /_includes
   metadata:
@@ -101,8 +102,16 @@ prose:
           element: "text"
           label: "Permalink"
           value: ""
+          help: "Относительная ссылка на эту страницу/файл"
       - name: "tagline"
         field:
           element: "text"
           label: "tagline"
-          value: ""          
+          value: ""
+          help: "Опциональный слоган. Небольшой текст который обычно длиннее заголовока, обычно до 2х-3х строчек. Текст кратко поясняет содержимое страницы"
+      - name: "topimage"
+        field:
+          element: "text"
+          label: "topimage"
+          value: ""
+          help: "Опциональное имя файла/картинки вверху страницы. Картинка - одна из картинок в /assets"
