@@ -71,12 +71,20 @@ prose:
         field:
           element: "text"
           label: "Permalink"
-          value: ""          
+          value: ""
+          help: "Относительная ссылка на эту страницу/файл. Транслитом. Пробелы заменяются на минусы. Начинается со слэша."
       - name: "tagline"
         field:
           element: "text"
-          label: "tagline"
-          value: ""          
+          label: "Tagline"
+          value: ""
+          help: "Опциональный слоган. Небольшой текст который обычно длиннее заголовока, обычно до 2х-3х строчек. Текст кратко поясняет содержимое страницы"
+      - name: "topimage"
+        field:
+          element: "text"
+          label: "Topimage"
+          value: ""
+          help: "Опциональное имя файла/картинки вверху страницы. Картинка - одна из картинок в /assets"
     pages:
       - name: "layout"
         field:
@@ -86,12 +94,20 @@ prose:
         field:
           element: "text"
           label: "Permalink"
-          value: ""          
+          value: ""
+          help: "Относительная ссылка на эту страницу/файл. Транслитом. Пробелы заменяются на минусы. Начинается со слэша."
       - name: "tagline"
         field:
           element: "text"
-          label: "tagline"
-          value: ""          
+          label: "Tagline"
+          value: ""
+          help: "Опциональный слоган. Небольшой текст который обычно длиннее заголовока, обычно до 2х-3х строчек. Текст кратко поясняет содержимое страницы"
+      - name: "topimage"
+        field:
+          element: "text"
+          label: "Topimage"
+          value: ""
+          help: "Опциональное имя файла/картинки вверху страницы. Картинка - одна из картинок в /assets"
     docs:
       - name: "layout"
         field:
@@ -102,16 +118,16 @@ prose:
           element: "text"
           label: "Permalink"
           value: ""
-          help: "Относительная ссылка на эту страницу/файл"
+          help: "Относительная ссылка на эту страницу/файл. Транслитом. Пробелы заменяются на минусы. Начинается со слэша."
       - name: "tagline"
         field:
           element: "text"
-          label: "tagline"
+          label: "Tagline"
           value: ""
           help: "Опциональный слоган. Небольшой текст который обычно длиннее заголовока, обычно до 2х-3х строчек. Текст кратко поясняет содержимое страницы"
       - name: "topimage"
         field:
           element: "text"
-          label: "topimage"
+          label: "Topimage"
           value: ""
           help: "Опциональное имя файла/картинки вверху страницы. Картинка - одна из картинок в /assets"
