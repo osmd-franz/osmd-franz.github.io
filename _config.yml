@@ -46,3 +46,16 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+prose:
+  media: 'assets'
+  ignore:
+    - index.md
+    - _config.yml
+    - .gitignore
+    - CNAME
+    - Gemfile
+    - Gemfile.lock
+    - site.webmanifest
+    - /_layouts
+    - /_includes
