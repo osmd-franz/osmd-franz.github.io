@@ -6,6 +6,7 @@ description: Правление  ОСМД Французский не имело
 show_in_articles: false
 show_in_documents: true
 published: true
+join-us-button: true
 ---
 
 ## Суд постановил
@@ -37,3 +38,4 @@ published: true
 ОСОБА_5 - Крицька Тамара Викторовна<br>
 </small></small>
 </small>
+

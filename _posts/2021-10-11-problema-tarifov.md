@@ -6,6 +6,7 @@ description: Тарифы по которым мы платим - взяты с 
 show_in_articles: true
 show_in_documents: false
 published: true
+join-us-button: true
 ---
 
 ----

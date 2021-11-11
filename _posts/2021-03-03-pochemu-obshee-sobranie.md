@@ -6,6 +6,8 @@ description: >-
 show_in_articles: true
 show_in_documents: false
 image: /assets/2021-03-03-pochemu-obshee-sobranie.png
+published: true
+join-us-button: true
 ---
 
 ## Мне нечего про это сказать
