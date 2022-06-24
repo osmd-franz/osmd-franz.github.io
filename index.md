@@ -29,6 +29,4 @@ image: /favicon-200x200.png
 
 ***
 
-{%- include nashi-soobshestva.md %}
-
 
