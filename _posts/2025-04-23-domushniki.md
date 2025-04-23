@@ -1,9 +1,9 @@
 ---
 layout: page2
-image: 
+image: /assets/2025-04-21-vor1.jpg
 title: >-
   23.04.2025 
-description: Домушники
+description: У нас есть охранники в каждом корппусе, камеры и... квартирные воры
 show_in_articles: false
 show_in_documents: false
 published: true
@@ -16,6 +16,17 @@ join-us-button: true
 
 Вот это было снято на камерой домофона 23 апреля 2025г:
 
+Видео 1:
+<video width="600" controls>
+  <source width="100%" src="/assets/2025-04-21-vor1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+Видео 2:
+<video width="600" controls>
+  <source width="100%" src="/assets/2025-04-21-vor2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 А вот это было обнаружено в двери одной из квартир:
 
