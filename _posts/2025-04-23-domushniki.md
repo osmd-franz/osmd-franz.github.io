@@ -17,7 +17,7 @@ join-us-button: true
 
 Видео 1: <br>
 
-<video controls>
+<video controls playsinline preload="metadata">
   <source src="/assets/2025-04-21-vor1.mp4" >
   Your browser does not support the video tag.
 </video>
@@ -25,7 +25,7 @@ join-us-button: true
 
 Видео 2: <br>
 
-<video controls>
+<video controls playsinline preload="metadata">
   <source src="/assets/2025-04-21-vor2.mp4" >
   Your browser does not support the video tag.
 </video>
@@ -39,7 +39,7 @@ join-us-button: true
 
 Извлечение маячка:
 
-<video controls>
+<video controls playsinline preload="metadata">
   <source src="/assets/2025-04-23-mayachok.mp4" >
   Your browser does not support the video tag.
 </video>
