@@ -1,7 +1,7 @@
 ---
 layout: page2
 image: 
-title: 23.04.2025 Квартирные воры - несмотря на охрану
+title: Квартирные воры - несмотря на охрану
 description: У нас есть охранники в каждом корпусе, камеры и... квартирные воры
 show_in_articles: false
 show_in_documents: false
@@ -18,7 +18,7 @@ join-us-button: true
 Видео 1: <br>
 
 <video controls>
-  <source src="/assets/2025-04-21-vor1.mp4" type="video/mp4">
+  <source src="/assets/2025-04-21-vor1.mp4" >
   Your browser does not support the video tag.
 </video>
 
@@ -26,7 +26,7 @@ join-us-button: true
 Видео 2: <br>
 
 <video controls>
-  <source src="/assets/2025-04-21-vor2.mp4" type="video/mp4">
+  <source src="/assets/2025-04-21-vor2.mp4" >
   Your browser does not support the video tag.
 </video>
 
@@ -40,7 +40,7 @@ join-us-button: true
 Извлечение маячка:
 
 <video controls>
-  <source src="/assets/2025-04-23-mayachok.mp4" type="video/mp4">
+  <source src="/assets/2025-04-23-mayachok.mp4" >
   Your browser does not support the video tag.
 </video>
 
