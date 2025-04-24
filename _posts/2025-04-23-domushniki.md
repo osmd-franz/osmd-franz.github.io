@@ -12,38 +12,43 @@ join-us-button: true
 
 #### Это было снято камерой домофона 21 апреля 2025г:
 
-Фото квартирного вора:
-![квартирный вор](/assets/2025-04-21-vor1.jpg){:width="100%"}
+Фото квартирного вора:<br>
+![квартирный вор](/assets/2025-04-21-vor1.jpg)
 
-Видео 1:
-<video width="100%" controls>
-  <source width="100%" src="/assets/2025-04-21-vor1.mp4" type="video/mp4">
+Видео 1: <br>
+
+<video controls>
+  <source src="/assets/2025-04-21-vor1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-<br>
-Видео 2:
-<video width="100%" controls>
-  <source width="100%" src="/assets/2025-04-21-vor2.mp4" type="video/mp4">
+
+Видео 2: <br>
+
+<video controls>
+  <source src="/assets/2025-04-21-vor2.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 В руках у него скорее всего фонарик. Время 04:54 утра.
 
 #### После этого - в двери одной из квартир были найдены "маячки"
 
 Маячок установленный между дверью и косяком:
-![Маячок установленный между дверью и косяком](/assets/2025-04-23-mayachok-2.jpg){:width="100%"}
+![Маячок установленный между дверью и косяком](/assets/2025-04-23-mayachok-2.jpg)
 
 Извлечение маячка:
-<video width="100%" controls>
-  <source width="100%" src="/assets/2025-04-23-mayachok.mp4" type="video/mp4">
+
+<video controls>
+  <source src="/assets/2025-04-23-mayachok.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 Обратите внимание на способ обнаружения - надо использовать пластиковую карту
 или плотную картонку и двигать между дверью и косяком.
 
 Маячок крупным планом: кусочек пластика
-![Маячок крупным планом](/assets/2025-04-23-mayachok.jpg){:width="100%"}
+![Маячок крупным планом](/assets/2025-04-23-mayachok.jpg)
 
 
 ### Что такое "маячки" 
