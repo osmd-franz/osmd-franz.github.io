@@ -1,19 +1,14 @@
 ---
 layout: page2
-image: /assets/2025-04-21-vor1.jpg
-title: >-
-  23.04.2025 
+image: 
+title: 23.04.2025 Квартирные воры - несмотря на охрану
 description: У нас есть охранники в каждом корпусе, камеры и... квартирные воры
 show_in_articles: false
 show_in_documents: false
 published: true
 join-us-button: true
 ---
-
-## Квартирные воры - несмотря на охрану
-
 В наших домах работают квартирные воры, домушники. 
-
 
 #### Это было снято камерой домофона 21 апреля 2025г:
 
@@ -33,8 +28,6 @@ join-us-button: true
   Your browser does not support the video tag.
 </video>
 В руках у него скорее всего фонарик. Время 04:54 утра.
-
-
 
 #### После этого - в двери одной из квартир были найдены "маячки"
 
